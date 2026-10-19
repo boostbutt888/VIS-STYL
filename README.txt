@@ -19,3 +19,5 @@ Validation: local asset references, section anchors and original contact destina
 checked. Browser layout testing was attempted but unavailable because the environment
 blocked browser launch and the local preview server. Responsive rendering and keyboard
 interaction still require a final check in a browser before production publication.
+
+Expanded product content: membership controls, staff points wallet, campaign codes, operator app, protocols and rollout FAQ. See POSITIONING-NOTES.md for source mapping and competitive claim limits. All enquiry CTAs link to https://styl.com.sg/contact-us/.
